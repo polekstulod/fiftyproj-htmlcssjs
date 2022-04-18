@@ -5,7 +5,7 @@
 3. Rotating Navigation Animation ✅
 4. Hidden Search Widget ✅
 5. Blurry Loading ✅
-6. Scroll Animation
+6. Scroll Animation ✅
 7. Split Landing Page
 8. Form Wave
 9. Sound Board

@@ -7,7 +7,7 @@
 5. Blurry Loading ✅
 6. Scroll Animation ✅
 7. Split Landing Page ✅
-8. Form Wave
+8. Form Wave ✅
 9. Sound Board
 10. Dad Jokes
 11. Event Keycodes

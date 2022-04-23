@@ -11,7 +11,7 @@
 9. Sound Board ✅
 10. Dad Jokes ✅
 11. Event Keycodes ✅
-12. Faq Collapse
+12. Faq Collapse ✅
 13. Random Choice Picker
 14. Animated Navigation
 15. Incrementing Counter

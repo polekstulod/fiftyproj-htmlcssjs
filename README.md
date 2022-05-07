@@ -28,7 +28,7 @@
 26. Double Vertical Slider ✅
 27. Toast Notification ✅
 28. Github Profiles ✅
-29. Double Click Heart
+29. Double Click Heart ✅
 30. Auto Text Effect
 31. Password Generator
 32. Good Cheap Fast

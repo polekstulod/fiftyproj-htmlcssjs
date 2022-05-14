@@ -34,7 +34,7 @@
 32. Good Cheap Fast ✅
 33. Notes App ✅
 34. Animated Countdown ✅
-35. Image Carousel
+35. Image Carousel ✅
 36. Hoverboard
 37. Pokedex
 38. Mobile Tab Navigation

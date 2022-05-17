@@ -38,7 +38,7 @@
 36. Hoverboard ✅
 37. Pokedex
 38. Mobile Tab Navigation ✅
-39. Password Strength Background
+39. Password Strength Background ✅
 40. 3d Background Boxes
 41. Verify Account Ui
 42. Live User Filter

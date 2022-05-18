@@ -36,7 +36,7 @@
 34. Animated Countdown ✅
 35. Image Carousel ✅
 36. Hoverboard ✅
-37. Pokedex
+37. Pokedex ✅
 38. Mobile Tab Navigation ✅
 39. Password Strength Background ✅
 40. 3d Background Boxes

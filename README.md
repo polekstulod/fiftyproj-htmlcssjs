@@ -43,7 +43,7 @@
 41. Verify Account Ui ✅
 42. Live User Filter ✅
 43. Feedback Ui Design ✅
-44. Custom Range Slider
+44. Custom Range Slider ✅
 45. Netflix Mobile Navigation
 46. Quiz App
 47. Testimonial Box Switcher

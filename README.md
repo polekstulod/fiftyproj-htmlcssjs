@@ -45,7 +45,7 @@
 43. Feedback Ui Design ✅
 44. Custom Range Slider ✅
 45. Netflix Mobile Navigation ✅
-46. Quiz App
+46. Quiz App ✅
 47. Testimonial Box Switcher
 48. Random Image Feed
 49. Todo List
